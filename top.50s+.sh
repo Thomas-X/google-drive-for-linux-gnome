@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-SYNC_OUTPUT=$(ruby \~/.config/.gdfl/drivesync/drivesync.rb)
+SYNC_OUTPUT=$(ruby ${HOME}/.config/.gdfl/drivesync/drivesync.rb)
 UP_TO_DATE='Up-to-date | iconName=object-select-symbolic'
 SYNCING="Syncing.. | iconName=system-reboot-symbolic"
 ECHO_MESSAGE=$UP_TO_DATE
