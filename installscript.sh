@@ -17,4 +17,4 @@ rm -rf argos
 
 git clone https://github.com/Thomas-X/google-drive-gnome.git
 cd google-drive-gnome
-mv top.8s+.sh ~/.config/argos
+mv top.50s+.sh ~/.config/argos
