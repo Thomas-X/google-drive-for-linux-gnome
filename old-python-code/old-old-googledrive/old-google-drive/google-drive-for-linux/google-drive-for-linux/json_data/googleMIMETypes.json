@@ -1,0 +1,19 @@
+{
+    "audio": "application/vnd.google-apps.audio",
+    "document": "application/vnd.google-apps.document",
+    "drawing": "application/vnd.google-apps.drawing",
+    "file": "application/vnd.google-apps.file",
+    "folder": "application/vnd.google-apps.folder",
+    "form": "application/vnd.google-apps.form",
+    "fusionTable": "application/vnd.google-apps.fusionTable",
+    "map": "application/vnd.google-apps.map",
+    "photo": "application/vnd.google-apps.photo",
+    "presentation": "application/vnd.google-apps.presentation",
+    "script": "application/vnd.google-apps.script",
+    "site": "application/vnd.google-apps.site",
+    "spreadsheet": "application/vnd.google-apps.spreadsheet",
+    "unknown": "application/vnd.google-apps.unknown",
+    "video": "application/vnd.google-apps.video",
+    "drive-sdk": "application/vnd.google-apps.drive-sdk",
+    "scriptJson": "application/vnd.google-apps.script+json"
+}

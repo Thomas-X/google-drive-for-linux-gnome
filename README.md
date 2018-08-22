@@ -11,13 +11,13 @@ There's an install script, but manually installing the 2 dependencies of this pl
 
 #### Install script
 ```bash
-wget -o /tmp/gdrivegnome.sh https://raw.githubusercontent.com/Thomas-X/google-drive-gnome/master/top.50s+.sh && chmod +x /tmp/gdrivegnome.sh && ./tmp/gdrivegnome.sh 
+wget -o /tmp/gdrivegnome.sh https://raw.githubusercontent.com/Thomas-X/google-drive-gnome/master/installscript.sh && chmod +x /tmp/gdrivegnome.sh && ./tmp/gdrivegnome.sh 
 ```
 
 #### Manually
-1. Make sure you've got all the prerequisites installed
-2. Clone both [this](https://github.com/Thomas-X/drivesync.git) and [this](https://github.com/Thomas-X/argos.git) repo
-3. Make sure the drivesync repo is in `~/.config/.gdfl/` make the directory if needed
-4. Follow install instructions of both repos (see README.md)
-5. Move the .sh script to your ~/.config/argos dir and restart gnome via `Alt+F2` and typing `r` in the command prompt
-6. You're all set!
+* Make sure you've got all the prerequisites installed
+* Clone both [this](https://github.com/Thomas-X/drivesync.git) and [this](https://github.com/Thomas-X/argos.git) repo
+* Make sure the drivesync repo is in `~/.config/.gdfl/` make the directory if needed
+* Follow install instructions of both repos (see README.md)
+* Move the .sh script to your ~/.config/argos dir and restart gnome via `Alt+F2` and typing `r` in the command prompt
+* You're all set!
