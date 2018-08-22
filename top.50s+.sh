@@ -13,22 +13,4 @@ if [[ $SYNC_OUTPUT == *"ERR:PID"* ]]; then
 fi
 echo $ECHO_MESSAGE
 echo '---'
-echo "About | iconName=help-about-symbolic href="
-# voor (syncen) :clouds: :cry: gebruik icon systen-reboot-symbolic
-# voor up-to-date gebruik objec3t-select-symbolic
-
-# INPUT='someletters_12345_moreleters.ext'
-# a="ERR:PID1234"
-# tmp=${a#*"ERR:PID"}
-# echo $tmp 
-# SUBSTRING=$(echo $INPUT| cut -d'_' -f "ERR:PID")
-# echo $SUBSTRING
-
-# echo $SYNC_OUTPUT
-# echo "$SYNC_OUTPUT" | tr -d "Local folder"
-# echo "$HAS_SYNCED"
-# echo "$SYNC_OUTPUT"
-  # echo "$SYNC_OUTPUT | font=monospace bash=top"
-# else
-  # echo "Loading..."
-# fi
+echo "About | iconName=help-about-symbolic href=https://github.com/Thomas-X/google-drive-gnome/"
